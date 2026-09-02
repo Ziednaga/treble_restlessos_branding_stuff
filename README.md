@@ -1,7 +1,8 @@
 # treble_restlessos_branding_stuff
 
 
-![Banner of Innuere Amethyst](GitElements/BannerInnuereAmethyst.png)
+![Banner of Made In Eden A-side](https://github.com/Ziednaga/treble_restlessos_branding_stuff/blob/main/GitElements/RestlessOS-MadeInEden-B.webp)
+![Banner of Made In Eden B-side](https://github.com/Ziednaga/treble_restlessos_branding_stuff/blob/main/GitElements/RestlessOS-MadeInEden-B-Bside.webp)
 
 
 
